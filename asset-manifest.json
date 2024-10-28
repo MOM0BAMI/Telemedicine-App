@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IT-Varsity_Hackathon_Project/static/css/main.5dddd5aa.css",
+    "main.js": "/IT-Varsity_Hackathon_Project/static/js/main.b154d58f.js",
+    "static/js/488.c9bbeade.chunk.js": "/IT-Varsity_Hackathon_Project/static/js/488.c9bbeade.chunk.js",
+    "index.html": "/IT-Varsity_Hackathon_Project/index.html",
+    "main.5dddd5aa.css.map": "/IT-Varsity_Hackathon_Project/static/css/main.5dddd5aa.css.map",
+    "main.b154d58f.js.map": "/IT-Varsity_Hackathon_Project/static/js/main.b154d58f.js.map",
+    "488.c9bbeade.chunk.js.map": "/IT-Varsity_Hackathon_Project/static/js/488.c9bbeade.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dddd5aa.css",
+    "static/js/main.b154d58f.js"
+  ]
+}
